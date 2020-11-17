@@ -1,0 +1,149 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap");
+
+/* SET UP */
+
+* {
+  box-sizing: border-box;
+}
+
+ul {
+  padding-left: 1.5rem;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  color: #333;
+  background-color: snow;
+  margin: 0 auto;
+  max-width: 1000px;
+}
+
+.item {
+  padding: 8px;
+  background-color: white;
+  border: 4px solid tomato;
+  border-radius: 6px;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.25);
+}
+
+.height-50 {
+  height: 50vh;
+}
+
+/* Task 1 */
+
+.task-1.container {
+}
+
+/* Task 2 */
+
+.task-2.container {
+}
+
+.task-2 .item-1 {
+}
+
+.task-2 .item-2 {
+}
+
+/* Task 3.1 */
+
+.task-3-1.container {
+}
+
+@media (min-width: 720px) {
+  .task-3-1.container {
+  }
+
+  .task-3-1 .header {
+  }
+
+  .task-3-1 .navigation {
+  }
+
+  .task-3-1 .main {
+  }
+
+  .task-3-1 .sidebar {
+  }
+
+  .task-3-1 .ads {
+  }
+
+  .task-3-1 .footer {
+  }
+}
+
+@media (min-width: 1020px) {
+  .task-3-1 .header {
+  }
+
+  .task-3-1 .navigation {
+  }
+
+  .task-3-1 .main {
+  }
+
+  .task-3-1 .sidebar {
+  }
+
+  .task-3-1 .ads {
+  }
+
+  .task-3-1 .footer {
+  }
+}
+
+/* Task 3.2 */
+
+.task-3-2.container {
+}
+
+.task-3-2 .header {
+}
+
+.task-3-2 .navigation {
+}
+
+.task-3-2 .ads {
+}
+
+.task-3-2 .sidebar {
+}
+
+.task-3-2 .main {
+}
+
+.task-3-2 .footer {
+}
+
+@media (min-width: 720px) {
+}
+
+@media (min-width: 1020px) {
+}
+
+/* Task 4 */
+
+.task-4.container {
+}
+
+.task-4 .item-5 {
+}
+
+/* Task 5 */
+
+.task-5.container {
+}
+
+.task-5 .item-1 {
+}
+
+.task-5 .item-2 {
+}
+
+.task-5 .item-3 {
+}
+
+.task-5 .item-4 {
+}
