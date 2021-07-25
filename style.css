@@ -41,12 +41,26 @@ body {
 /* Task 2 */
 
 .task-2.container {
+  display: grid;
+  height: 100vh;
+  grid-template-columns: repeat(12, 1fr);
+  gap: 1em;
+  align-items: center;
 }
 
 .task-2 .item-1 {
+  grid-column-start:1 ;
+  grid-column-end:6 ;
+  grid-row-start:1 ;
+  grid-row-end:6 ;
+
 }
 
 .task-2 .item-2 {
+  grid-row-start:1 ;
+  grid-row-end:6 ;
+  grid-column-start:6 ;
+  grid-column-end:12 ;
 }
 
 /* Task 3.1 */
